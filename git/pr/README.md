@@ -86,7 +86,7 @@ After your branch is synchronized with the original one, perform the checkout to
 For that:
 1.	Run the **cmd** terminal.
 2.	Type in `git checkout`, insert your branch name from the console, and press **Enter** to run the command. 
-Now, the branch is visible in your Workplace source tree and you can work on your task. 
+Now, the branch is visible in your Workpace source tree and you can work on your task. 
 
 ## Create a commit and push changes
 When you make the needed changes, you can create a commit and push the changes.
@@ -111,7 +111,7 @@ You can also stage a part of a file. One option is to stage a hunk of a file by 
 
 ![Stage changes_3](https://github.com/Alla-Vashchuk/scada-readme/assets/150123119/b47a9c6d-e708-46d0-ab7c-feb4af5c8285)
 
-Another option is to stage a line or several lines of a file by clicking the needed lines and clicking **Stage lines**.
+Another option is to stage a line or several lines of a file by selecting the needed lines and clicking **Stage lines**.
 
 ![Stage changes_4](https://github.com/Alla-Vashchuk/scada-readme/assets/150123119/bec57faa-ab90-4628-a5b0-466c2d2347bc)
 
